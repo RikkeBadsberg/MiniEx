@@ -1,10 +1,9 @@
 
-Feedback loop
+<h3>Feedback loop</h3>
 
 <p>Title: <i>"The Hypnotic Feedback of Dots"</i> ... or just <i>Green Dots</i></p>
 <p>https://rikkebadsberg.github.io/MiniEx/MiniEx4%20-%20Feedback%20loop</p>
 
-<p>Screnshots</p>
 ![Screenshot](https://rikkebadsberg.github.io/MiniEx/MiniEx4%20-%20Feedback%20loop/screenshot1.png)
 ![Screenshot](https://rikkebadsberg.github.io/MiniEx/MiniEx4%20-%20Feedback%20loop/screenshot2.png)
 
