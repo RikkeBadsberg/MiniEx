@@ -15,7 +15,7 @@ function setup() {
     //connect to the RiTa lexicon
     lexicon = new RiLexicon();
 
-    createText();
+    //createText();
 }
 
 function draw() {
