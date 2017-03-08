@@ -6,8 +6,8 @@ var myFont;
 function preload()
 {
     //load strings from textfile
-    //load font
-    myFont = loadFont("data/Quicksand-Regular.otf");
+    words = loadStrings("data/lyrics.txt");
+    //myFont = loadFont("data/Quicksand-Regular.otf");  //load font
 }
 
 function setup() {
@@ -19,19 +19,12 @@ function setup() {
 }
 
 function draw() {
-    textFont(myFont);
+    //textFont(myFont);
     background(50);
     showText();
 }
 
-function usercreatedText()
-{
-    var s = input.value();
-    var rs = new RiString(s);
-    console.log(rs);
-}
-
-function createText()
+/*function createText()
 {
     words = [];
     words[0] = "BLa bla0";
@@ -40,7 +33,7 @@ function createText()
     words[3] = "BLa bla3";
     words[4] = "BLa bla4";
     console.log(words);
-}
+}*/
 
 function showText()
 {
