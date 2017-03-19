@@ -1,13 +1,15 @@
 <h3>MiniEx6 - Generative Art</h3>
 
-<p>Try <b>A bit like a software Big Bang</b> out here: https://rikkebadsberg.github.io/MiniEx/MiniEx6/</P>
+<p>Try <b>A bit like a software Big Bang</b> out here: https://rikkebadsberg.github.io/MiniEx/MiniEx6/</p>
 
 <h4>Description</h4>
 <p>I build on Winnie's generative artwork from class by adding colors and stroke to the ellipses (not cirles anymore) and playing with opacity for both the fill and stroke of the circle and with the background color.</p>
 <p>It takes about 6½ minutes to unfold - both growing and shrinking, and it really is kind of weird at the end of its cycle.</p>
 <p>Screenshots showing the generative art at different places in its life cycle:</p>
-<!--![Screenshot](https://rikkebadsberg.github.io/MiniEx/MiniEx6/screenshot1.png)
-![Screenshot](https://rikkebadsberg.github.io/MiniEx/MiniEx6/screenshot2.png)-->
+
+![Screenshot](https://rikkebadsberg.github.io/MiniEx/MiniEx6/screenshot1.png)
+
+![Screenshot](https://rikkebadsberg.github.io/MiniEx/MiniEx6/screenshot2.png)
 
 <h4>Rules</h4>
 <p>There are four rules in this program:</p>
